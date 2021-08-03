@@ -1,9 +1,3 @@
-"""
-First tkinter project
-just wanted to put some of my begineer knowledge to the test so it's not perfect
-"""
-
-
 from tkinter import *
 import operator
 
